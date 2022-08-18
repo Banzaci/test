@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "votes": 32,
+      "name": "Salon 1",
+      "img": "background_photo.png",
+      "address": {
+        "street": "Street 1",
+        "streetNumber": "12",
+        "zip": "123 45",
+        "city": "Stockholm"
+      },
+      "price": 250,
+      "phone": "+46 123 456 789",
+      "description": "At Awesome, we believe in creativity, in seeing who you are and listening to who you want to be. From that, we create your look.<br /> We are a strong and constantly evolving team working towards one goal: to give you a personal and complete experience!<br /> We take the time for our clients, offering thorough consultations and tailor-made treatments. Coming to us should feel relaxing and exclusive at the same time.",
+      "ratings": 3,
+      "openingHrs": {
+        "from": 10,
+        "to": 19
+      },
+      "duration": "30 min",
+      "slot": "12:00",
+      "website": "www.company.com"
+    },
+    {
+      "id": 2,
+      "votes": 32,
+      "name": "Salon 2",
+      "img": "background_photo.png",
+      "address": {
+        "street": "Street 1",
+        "streetNumber": "12",
+        "zip": "123 45",
+        "city": "Stockholm"
+      },
+      "price": 500,
+      "phone": "+46 123 456 789",
+      "description": "At Awesome, we believe in creativity, in seeing who you are and listening to who you want to be. From that, we create your look.<br /> We are a strong and constantly evolving team working towards one goal: to give you a personal and complete experience!<br /> We take the time for our clients, offering thorough consultations and tailor-made treatments. Coming to us should feel relaxing and exclusive at the same time.",
+      "ratings": 2,
+      "openingHrs": {
+        "from": 10,
+        "to": 19
+      },
+      "duration": "30 min",
+      "slot": "13:00",
+      "website": "www.company.com"
+    },
+    {
+      "id": 3,
+      "votes": 32,
+      "name": "Salon 3",
+      "img": "background_photo.png",
+      "address": {
+        "street": "Street 1",
+        "streetNumber": "12",
+        "zip": "123 45",
+        "city": "Stockholm"
+      },
+      "price": 750,
+      "phone": "+46 123 456 789",
+      "description": "At Awesome, we believe in creativity, in seeing who you are and listening to who you want to be. From that, we create your look.<br /> We are a strong and constantly evolving team working towards one goal: to give you a personal and complete experience!<br /> We take the time for our clients, offering thorough consultations and tailor-made treatments.\\n\\nComing to us should feel relaxing and exclusive at the same time.",
+      "ratings": 5,
+      "openingHrs": {
+        "from": 10,
+        "to": 19
+      },
+      "duration": "30 min",
+      "slot": "14:00",
+      "website": "www.company.com"
+    }
+  ]
+}
